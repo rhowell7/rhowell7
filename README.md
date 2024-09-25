@@ -1,4 +1,40 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub!
+
+I'm __Rosie Howell__, a Software Developer passionate about Python, Machine Learning, and Backend development. When I'm not writing clean, efficient code, you might find me juggling various projects—whether it's leading my neighborhood block club 🏘️, tending to my garden 🌱, or taking care of my pets 🐾!
+
+### 🔧 Skills & Expertise
+
+- 💻 Backend Development: Python (Flask, Jinja2, SQL)
+- 🌐 Web Technologies: HTML, CSS, JavaScript
+- 🚀 DevOps & Cloud: Docker, GCP, CI/CD
+- 🧠 Machine Learning: PyTorch, Spektral, TensorFlow.js
+- 🛠️ Tools I Love: Linux, VSCode, Git, Tox, Flake8, Pytest
+
+
+### 🌟 Projects I'm Excited About
+
+Here are some of the projects I've been working on:
+
+- Job Scraper 🕵️‍♀️: An open-source tool to help job seekers find and rank opportunities based on personal preferences (with privacy and security in mind!)
+- Home Automation ⚙️: Various IoT and automation setups, including smart gardening and security integration
+- Community Organizer 🏘️: Local block club president, leading efforts to keep our neighborhood safe and beautiful
+
+
+### 👩‍💻 A Bit More About Me
+
+I hold a Master's in Computer Science from the University of Michigan, and a Bachelor's in Information Assurance from Eastern Michigan University. I'm a big fan of continuous learning, clean code, and solving real-world problems with technology.
+
+When I'm not coding, I'm likely improving things at home 🛠️, spending time with my pets 🐶🐱🐔, or working in my garden 🌶️. I also enjoy reading, cooking, and getting involved in projects that make a difference.
+
+
+### 💬 Let's Connect
+
+Whether it's discussing a project, brainstorming ideas, or collaborating, feel free to reach out!
+
+- 📫 How to reach me: howell.rose7 atgmail
+- 🌐 Website: [rosehowell.com](https://rosehowell.com)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I've been to 48 states! 🇺🇸
 
 <!--
 **rhowell7/rhowell7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
