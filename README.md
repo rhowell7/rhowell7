@@ -1,11 +1,12 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm __Rosie Howell__, a Software Developer passionate about Python, Machine Learning, and Backend development. When I'm not writing clean, efficient code, you might find me juggling various projects—whether it's leading my neighborhood block club 🏘️, tending to my garden 🌱, or taking care of my pets 🐾!
+I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learning, and Backend development. When I'm not writing clean, efficient code, you might find me juggling various projects—whether it's leading my neighborhood block club 🏘️, tending to my garden 🌱, or taking care of my pets 🐾!
+
 
 ### 🔧 Skills & Expertise
 
-- 💻 Backend Development: Python (Flask, Jinja2, SQL)
-- 🌐 Web Technologies: HTML, CSS, JavaScript
+- 💻 Backend Development: Python (Automation, Scripting, Flask, Jinja2, SQL), C/C++
+- 🌐 Web Technologies: JavaScript, HTML, CSS
 - 🚀 DevOps & Cloud: Docker, GCP, CI/CD
 - 🧠 Machine Learning: PyTorch, Spektral, TensorFlow.js
 - 🛠️ Tools I Love: Linux, VSCode, Git, Tox, Flake8, Pytest
@@ -35,6 +36,7 @@ Whether it's discussing a project, brainstorming ideas, or collaborating, feel f
 - 🌐 Website: [rosehowell.com](https://rosehowell.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been to 48 states! 🇺🇸
+
 
 <!--
 **rhowell7/rhowell7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
