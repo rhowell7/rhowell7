@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learning, and Backend development. When I'm not writing clean, efficient code, you might find me juggling various projects—whether it's leading my neighborhood block club 🏘️, tending to my garden 🌱, or taking care of my pets 🐾!
+I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learning, and Backend development. When I'm not playing with tech, you might find me juggling various projects — whether it's leading my neighborhood block club 🏘️, tending to my garden 🌱, or taking care of my pets 🐾!
 
 
 ### 🔧 Skills & Expertise
@@ -8,15 +8,15 @@ I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learn
 - 💻 Backend Development: Python (Automation, Scripting, Flask, Jinja2, SQL), C/C++
 - 🌐 Web Technologies: JavaScript, HTML, CSS
 - 🚀 DevOps & Cloud: Docker, GCP, CI/CD
-- 🧠 Machine Learning: PyTorch, Spektral, TensorFlow.js
+- 🤖 Machine Learning: PyTorch, Spektral, TensorFlow.js
 - 🛠️ Tools I Love: Linux, VSCode, Git, Tox, Flake8, Pytest
 
 
 ### 🌟 Projects I'm Excited About
 
-Here are some of the projects I've been working on:
+Here are some projects I've been working on recently:
 
-- Job Scraper 🕵️‍♀️: An open-source tool to help job seekers find and rank opportunities based on personal preferences (with privacy and security in mind!)
+- Job Scraper 🕵️‍♀️: An open-source tool to help job seekers find and filter new opportunities
 - Home Automation ⚙️: Various IoT and automation setups, including smart gardening and security integration
 - Community Organizer 🏘️: Local block club president, leading efforts to keep our neighborhood safe and beautiful
 
