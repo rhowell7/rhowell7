@@ -35,7 +35,7 @@ Whether it's discussing a project, brainstorming ideas, or collaborating, feel f
 - 📫 How to reach me: howell.rose7 atgmail
 - 🌐 Website: <a href="https://rosehowell.com/" target="_blank">rosehowell.com</a>
 - ♀️ Pronouns: she/her
-- ⚡ Fun fact: I've been to 48 states! 🇺🇸
+- ⚡ Fun fact: I've been to 48 states 🇺🇸 and 18 countries! 🌎
 
 
 <!--
