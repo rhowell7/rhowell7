@@ -16,9 +16,9 @@ I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learn
 
 Here are some projects I've been working on recently:
 
-- Job Scraper 🕵️‍♀️: An open-source tool to help job seekers find and filter new opportunities
-- Home Automation ⚙️: Various IoT and automation setups, including smart gardening and security integration
-- Community Organizer 🏘️: Local block club president, leading efforts to keep our neighborhood safe and beautiful
+- Job Scraper: An open-source tool to help job seekers find and filter new opportunities
+- Home Automation: Various IoT and automation setups, including smart gardening and security integration
+- Community Organizer: Local block club president, leading efforts to keep our neighborhood safe and beautiful
 
 
 ### 👩‍💻 A Bit More About Me
