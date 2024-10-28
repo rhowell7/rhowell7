@@ -33,7 +33,7 @@ When I'm not coding, I'm likely improving things at home 🛠️, spending time 
 Whether it's discussing a project, brainstorming ideas, or collaborating, feel free to reach out!
 
 - 📫 How to reach me: howell.rose7 atgmail
-- 🌐 Website: <a href="https://rosehowell.com/" target="_blank">rosehowell.com</a>
+- 🌐 Website: [rosehowell.com](https://rosehowell.com)
 - ♀️ Pronouns: she/her
 - ⚡ Fun fact: I've been to 48 states 🇺🇸 and 18 countries! 🌎
 
