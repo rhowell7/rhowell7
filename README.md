@@ -35,6 +35,7 @@ Whether it's discussing a project, brainstorming ideas, or collaborating, feel f
 - 📫 How to reach me: howell.rose7 atgmail
 - 🌐 Website: [rosehowell.com](https://rosehowell.com)
 - ♀️ Pronouns: she/her
+- ⚡ Fun fact: I've been to 48 states 🇺🇸 and 18 countries! 🌎
 
 <!--
 **rhowell7/rhowell7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,6 +49,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I've been to 48 states 🇺🇸 and 18 countries! 🌎
+- ⚡ Fun fact: ...
 
 -->
