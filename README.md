@@ -5,7 +5,7 @@ I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learn
 
 ### 🔧 Skills & Expertise
 
-- 💻 Backend Development: Python (Automation, Scripting, Flask, Jinja2, SQL), C/C++
+- 💻 Backend Development: Python (Automation, Scripting, Flask, Django, SQL), C/C++
 - 🌐 Web Technologies: JavaScript, HTML, CSS
 - 🚀 DevOps & Cloud: Docker, GCP, CI/CD
 - 🤖 Machine Learning: PyTorch, Spektral, TensorFlow.js
