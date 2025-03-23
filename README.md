@@ -5,8 +5,8 @@ I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learn
 
 ### 🔧 Skills & Expertise
 
-- 💻 Backend Development: Python (Automation, Scripting, Flask, Django, SQL), C/C++
-- 🌐 Web Technologies: JavaScript, HTML, CSS
+- 💻 Backend Development: Python, Automation, Scripting, Flask, Django, PostgreSQL, C/C++
+- 🌐 Web Technologies: JavaScript, HTML, CSS, HTMX
 - 🚀 DevOps & Cloud: Docker, GCP, CI/CD
 - 🤖 Machine Learning: PyTorch, Spektral, TensorFlow.js
 - 🛠️ Tools I Love: Linux, VSCode, Git, Tox, Flake8, Pytest
@@ -17,7 +17,7 @@ I'm __Rose Howell__, a Software Developer passionate about Python, Machine Learn
 Here are some projects I've been working on recently:
 
 - Job Scraper: An open-source tool to help job seekers find and filter new opportunities
-- Home Automation: Various IoT and automation setups, including smart gardening and security integration
+- Home Automation: Various IoT and automation setups, including a smart chicken coop and security integration
 - Community Organizer: Local block club president, leading efforts to keep our neighborhood safe and beautiful
 
 
