@@ -25,7 +25,7 @@ Here are some projects I've been working on recently:
 
 I hold a Master's in Computer Science from the University of Michigan, and a Bachelor's in Information Assurance from Eastern Michigan University. I'm a big fan of continuous learning, clean code, and solving real-world problems with technology.
 
-When I'm not coding, I'm likely improving things at home 🛠️, spending time with my pets 🐶🐱🐔, or working in my garden 🌶️. I also enjoy reading, cooking, and getting involved in projects that make a difference.
+When I'm away from the keyboard, I'm likely improving things at home 🛠️, spending time with my pets 🐶🐱🐔, or working in my garden 🌶️. I also enjoy reading, cooking, and getting involved in projects that make a difference.
 
 
 ### 💬 Let's Connect
